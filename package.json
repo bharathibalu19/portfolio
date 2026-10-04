@@ -1,0 +1,13 @@
+{
+  "name": "portfolio-scroll-animation",
+  "version": "1.0.0",
+  "description": "Smooth scroll canvas animation using frame sequence",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": ["scroll-animation", "canvas", "image-sequence"],
+  "author": "",
+  "license": "ISC"
+}
